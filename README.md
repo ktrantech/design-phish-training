@@ -51,18 +51,4 @@ This tutorial outlines interpreting the performance of the phishing email simula
 
 📣 Remember that employees at times view training as boring - so try to make the presentation clear, concise and easy to understand. Try to educate employees on what phishing is, as well as provide examples of tactics often used. Use any resources you choose, the more creative, the better! 📣
 
-![image](https://github.com/user-attachments/assets/09fac9cc-92ff-4034-8c08-d069d89ab080)
-
-
-
-
-
-
-   
-   <h2>Step 4. Example Phishing Email</h2>
-
-   - There are many ways you could have attempted this task, as phishing emails come in all shapes & sizes. Below you'll find one example of an improved phishing email - take note of some of the improvements made
-
-![image](https://github.com/user-attachments/assets/17fa6569-880f-47fe-ac9b-859940257a7d)
-
    
